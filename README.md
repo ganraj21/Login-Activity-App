@@ -1,6 +1,8 @@
 # GDSC Jetpack compose challenge : ✨✨Login-Activity-App✨✨
 
-Awesome Experience to make an app which having All your ideas to build.
+#### About
+Creating a login activity app using Kotlin and Jetpack Compose is an awesome experience. Jetpack Compose is a modern UI toolkit that allows developers to build beautiful and performant apps with ease. Together, Kotlin and Jetpack Compose provide a solid foundation for creating a login activity app.
+
 #### Login-Activity-App
 <div align="center" display="flex" justify-content:"space-between" width=500>
   <table>
